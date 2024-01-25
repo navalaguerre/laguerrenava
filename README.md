@@ -1,4 +1,4 @@
-# Hey hey,
+# Hey hey, [![](https://visitcount.itsvg.in/api?id=navalaguerre&icon=0&color=9)](https://visitcount.itsvg.in)
 
 A little about me:
 
